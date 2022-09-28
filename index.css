@@ -1,0 +1,76 @@
+html,
+body {
+    margin: 0;
+    padding: 0 100;
+}
+
+.main,
+header,
+footer {
+    width: 357px;
+}
+
+.post-img {
+    height: 375px;
+    width: 375px;
+}
+
+.icon {
+    Width: 18.65px;
+
+}
+
+.func {
+    display: flex;
+    justify-content: space-between;
+    width: 80px;
+    margin-top: 15px;
+}
+
+.logo {
+    height: 50.02px;
+    width: 127px;
+}
+
+header {
+    height: 67px;
+    width: 375px;
+    border-bottom: 2px solid #c6c6c6;
+}
+
+h2 {
+    font-size: 13px;
+    margin-top: 0px;
+    margin-left: 10px;
+}
+
+.person {
+    display: flex;
+}
+
+.location {
+    display: inline-block;
+    margin-left: -85px;
+}
+
+header,
+article,
+.main,
+footer {
+    margin: 10 auto;
+}
+
+.bold {
+    font-weight: bold;
+    font-size: 13px;
+}
+
+p {
+    font-size: 13px;
+}
+
+.avatar {
+    width: 34px;
+    height: 34px;
+    border-radius: 50px;
+}
